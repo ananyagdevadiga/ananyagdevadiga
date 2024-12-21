@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Ananya and I'm a sophomore enthusiastic towards learning new technologies</h2>
+<h2 align="left">Hi 👋! My name is Ananya and I'm a sophomore enthusiastic towards learning new technologies</h2>
 
 ###
 
